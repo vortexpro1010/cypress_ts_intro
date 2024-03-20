@@ -1,0 +1,5 @@
+{
+    "medicineSearchInput": "//input",
+    "tableFirstCell": "//*[@id='root']/div/center/table/tbody/tr[1]/td[1]",
+    "displayedMedicineRecords": "//tbody/tr"
+}

@@ -1,0 +1,8 @@
+export enum ScenarioContextEnum {
+  RESPONSE_CODE,
+  ADMIN_ID,
+  RESPONSE_ADMIN,
+  MEDICINE_TYPES_API,
+  MEDICINE_TYPES_DB,
+  FILE_PATH
+}

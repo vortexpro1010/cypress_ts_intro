@@ -1,0 +1,3 @@
+{
+    "fastSearchButton": "//a[contains(text(), 'CĂUTARE RAPIDĂ')]"
+}
